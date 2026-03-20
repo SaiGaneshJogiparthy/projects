@@ -1,4 +1,4 @@
-# 🏦 Bank Management System in C
+#  Bank Management System in C
 
 ## Features
 - Create Account
